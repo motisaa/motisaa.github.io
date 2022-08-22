@@ -44,7 +44,9 @@ body {
 }
 
 #nav-list {
-    background-color: #e4af34;
+	 font-family: 'DynaPuff', cursive;
+	 color: white;
+    background-color: #9932CC;
 }
 
 #nav-list a {
